@@ -1,0 +1,8 @@
+'Juan', 'Pérez', '1985-07-12', 'juan.perez@example.com', '123456789', 'Calle Falsa 123, Ciudad', 'activo'
+'María', 'Gómez', '1990-03-15', 'maria.gomez@example.com', '234567890', 'Av. Libertador 456, Ciudad', 'activo'
+'Carlos', 'Lopez', '1978-12-20', 'carlos.lopez@example.com', '345678901', 'Calle del Sol 789, Ciudad', 'inactivo'
+'Ana', 'Martínez', '1992-05-10', 'ana.martinez@example.com', '456789012', 'Calle Mayor 321, Ciudad', 'activo'
+'Luis', 'Ramírez', '1984-09-25', 'luis.ramirez@example.com', '567890123', 'Plaza Central 456, Ciudad', 'activo'
+'Elena', 'Sánchez', '1995-02-14', 'elena.sanchez@example.com', '678901234', 'Calle Larga 123, Ciudad', 'inactivo'
+'Javier', 'Torres', '1980-06-30', 'javier.torres@example.com', '789012345', 'Av. San Martín 789, Ciudad', 'activo'
+'Luisa', 'Fernández', '1993-11-05', 'luisa.fernandez@example.com', '890123456', 'Calle Primavera 101, Ciudad', 'activo'

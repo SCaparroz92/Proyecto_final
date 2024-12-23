@@ -1,3 +1,8 @@
+IMAGEN ENTIDAD RELACION DE LAS TABLAS
+
+![alt text](image.png)
+
+
 Situación:
 El club se encuentra en un momento de expansión y crecimiento, recibiendo un número creciente de nuevos miembros, organizando más actividades y eventos, y gestionando donaciones y votaciones para la toma de decisiones importantes. Sin embargo, a pesar de este crecimiento, la administración del club sigue dependiendo de procesos manuales, lo que provoca varios problemas:
 
@@ -80,3 +85,4 @@ Crecimiento sostenido: Con una gestión más eficiente, el club podrá manejar s
 
 Conclusión:
 La implementación de esta base de datos permitirá al club gestionar sus operaciones de manera mucho más eficiente, reduciendo errores y cargas administrativas. Al automatizar procesos clave, se fomentará una mayor participación de los miembros, lo que contribuirá al crecimiento y la sostenibilidad del club. Además, la transparencia proporcionada por la plataforma aumentará la confianza de los miembros, creando un ambiente más colaborativo y activo.
+
